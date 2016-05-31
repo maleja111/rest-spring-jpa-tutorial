@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="rest-spring-jpa-tutorial:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ias-jpa.war">
+      <element id="artifact" artifact-name="rest-spring-jpa-tutorial:war exploded" />
+    </root>
+  </artifact>
+</component>
